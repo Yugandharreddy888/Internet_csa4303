@@ -1,0 +1,1729 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 5
+/Kids [ 4 0 R 15 0 R 18 0 R 20 0 R 22 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 6259
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 51.02362 31.1811 Tm (M.Yugandhar Reddy  |  Reg. No. 192372016  |  CSA4303 Internet Programming  |  CO1 - Assessment Tool 3) Tj T* ET
+BT 1 0 0 1 518.9 31.1811 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 59.85827 750.5354 cm
+Q
+q
+1 0 0 1 59.85827 724.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm /F2 21 Tf 26 TL 121.681 0 Td (SIMATS ENGINEERING) Tj T* -121.681 0 Td ET
+Q
+Q
+q
+1 0 0 1 59.85827 704.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F2 15.5 Tf 20 TL 154.2345 0 Td (ASSESSMENT TOOL 3) Tj T* -154.2345 0 Td ET
+Q
+Q
+q
+1 0 0 1 59.85827 674.5354 cm
+Q
+q
+1 0 0 1 59.85827 658.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F2 11.5 Tf 16 TL (COURSE NAME: INTERNET PROGRAMMING) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.85827 642.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F2 11.5 Tf 16 TL (COURSE CODE: CSA4303) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.85827 626.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F2 11.5 Tf 16 TL (STUDENT NAME: M.Yugandhar Reddy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.85827 610.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F2 11.5 Tf 16 TL (REG. NO.: 192372016) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.85827 592.5354 cm
+Q
+q
+1 0 0 1 59.85827 586.9354 cm
+q
+1.6 w
+1 J
+.65098 .65098 .65098 RG
+n 0 0 m 475.5591 0 l S
+Q
+Q
+q
+1 0 0 1 59.85827 570.9354 cm
+Q
+q
+1 0 0 1 59.85827 554.9354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F2 11.5 Tf 16 TL (COURSE OUTCOME COVERED) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.85827 548.9354 cm
+Q
+q
+1 0 0 1 59.85827 518.9354 cm
+q
+BT 1 0 0 1 0 19 Tm 15 TL /F2 11 Tf 0 0 0 rg (CO-1:) Tj /F1 11 Tf ( Develop well-structured, standards-compliant web pages using HTML/XHTML and XML,) Tj T* -0.056245 Tw (and apply Internet protocols and HTTP communication mechanisms for web content delivery. ) Tj /F2 11 Tf (\(L2\)) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 59.85827 504.9354 cm
+Q
+q
+1 0 0 1 53.85827 483.9354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 11 Tf 15 TL (Assessment Tool:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 108.0472 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 11 Tf 15 TL 21.38741 0 Td (Code along exercise: Make your first HTML page together with CSS) Tj T* -21.38741 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 59.85827 467.9354 cm
+Q
+q
+1 0 0 1 59.85827 451.9354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F2 11.5 Tf 16 TL (Weightage: 10%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.85827 439.9354 cm
+Q
+q
+1 0 0 1 59.85827 434.3354 cm
+q
+1.6 w
+1 J
+.65098 .65098 .65098 RG
+n 0 0 m 475.5591 0 l S
+Q
+Q
+q
+1 0 0 1 59.85827 424.3354 cm
+Q
+q
+1 0 0 1 53.85827 402.3354 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F2 11.5 Tf 16 TL (QUESTIONS:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 308.2866 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F2 11.5 Tf 16 TL 89.55244 0 Td (Total Marks: 10) Tj T* -89.55244 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 59.85827 388.3354 cm
+Q
+q
+1 0 0 1 59.85827 368.3354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 15.5 Tf 20 TL (Scenario: Web Development Standards Implementation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.85827 364.3354 cm
+Q
+q
+1 0 0 1 59.85827 322.3354 cm
+q
+BT 1 0 0 1 0 30.5 Tm 14 TL /F3 11.5 Tf 0 0 0 rg (A start up is developing a modern web application. During development, the team encounters multiple) Tj T* (issues related to HTML elements, HTTP methods, XML syntax, and web communication protocols.) Tj  T* (The following observations are made:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.85827 314.3354 cm
+Q
+q
+1 0 0 1 59.85827 299.3354 cm
+q
+BT 1 0 0 1 16 4 Tm /F1 10 Tf 12 TL 0 0 0 rg /F4 10 Tf 12 TL (l) Tj /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 34 4 Tm /F1 11 Tf 15 TL (The team needs to embed a promotional video on the homepage.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.85827 281.3354 cm
+q
+BT 1 0 0 1 16 4 Tm /F1 10 Tf 12 TL 0 0 0 rg /F4 10 Tf 12 TL (l) Tj /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 34 4 Tm /F1 11 Tf 15 TL (A registration form must securely send user data to the server.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.85827 263.3354 cm
+q
+BT 1 0 0 1 16 4 Tm /F1 10 Tf 12 TL 0 0 0 rg /F4 10 Tf 12 TL (l) Tj /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 34 4 Tm /F1 11 Tf 15 TL (The navigation menu must follow semantic HTML standards.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.85827 245.3354 cm
+q
+BT 1 0 0 1 16 4 Tm /F1 10 Tf 12 TL 0 0 0 rg /F4 10 Tf 12 TL (l) Tj /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 34 4 Tm /F1 11 Tf 15 TL (XML configuration files are being used but contain syntax errors.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.85827 227.3354 cm
+q
+BT 1 0 0 1 16 4 Tm /F1 10 Tf 12 TL 0 0 0 rg /F4 10 Tf 12 TL (l) Tj /F1 10 Tf 12 TL ET
+0 0 0 rg
+BT 1 0 0 1 34 4 Tm /F1 11 Tf 15 TL (The application must communicate over the correct web protocol.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.85827 216.3354 cm
+Q
+q
+1 0 0 1 59.85827 196.3354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 15.5 Tf 20 TL (Data Snippets Provided) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.85827 182.3354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F5 12 Tf 14 TL (Snippet 1: Video Embedding Options) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.85827 170.8354 cm
+q
+BT 1 0 0 1 10 2.5 Tm 11.5 TL /F6 9 Tf 0 0 0 rg (A. <) Tj (media src="video.mp4") Tj (>) Tj (<) Tj (/media) Tj (>) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.85827 159.3354 cm
+q
+BT 1 0 0 1 10 2.5 Tm 11.5 TL /F6 9 Tf 0 0 0 rg (B. <) Tj (video src="video.mp4" controls) Tj (>) Tj (<) Tj (/video) Tj (>) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.85827 147.8354 cm
+q
+BT 1 0 0 1 10 2.5 Tm 11.5 TL /F6 9 Tf 0 0 0 rg (C. <) Tj (movie src="video.mp4") Tj (>) Tj (<) Tj (/movie) Tj (>) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.85827 136.3354 cm
+q
+BT 1 0 0 1 10 2.5 Tm 11.5 TL /F6 9 Tf 0 0 0 rg (D. <) Tj (vid src="video.mp4") Tj (>) Tj (<) Tj (/vid) Tj (>) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.85827 131.3354 cm
+Q
+q
+1 0 0 1 59.85827 117.3354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F5 12 Tf 14 TL (Snippet 2: Form Submission Methods) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.85827 105.8354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 2.5 Tm /F6 9 Tf 11.5 TL (A. GET) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.85827 94.33543 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 2.5 Tm /F6 9 Tf 11.5 TL (B. POST) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.85827 82.83543 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 2.5 Tm /F6 9 Tf 11.5 TL (C. PUT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.85827 71.33543 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 2.5 Tm /F6 9 Tf 11.5 TL (D. DELETE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 59.85827 66.33543 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 11.5 Tf
+13.8 TL
+ET
+BT
+1 0 0 1 60 599.3898 Tm
+(MARKS\072) Tj
+T*
+ET
+BT
+1 0 0 1 109.9885 599.3898 Tm
+(76) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /ZapfDingbats
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+/Name /F5
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F6
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/BaseFont /Times-BoldItalic
+/Encoding /WinAnsiEncoding
+/Name /F7
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 17 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1999
+>>
+stream
+Gau`TgMYb8&:Ml+%/_@e$I+L-MpiAZ&j&Zn-VgH[/`;s1\L&2X>\81/=[bQh1J:W3'M2nO]<qZrf\=W?4`b3`#Aj<^b\*"<]UHX`R0/HWPA>,`<Y$P?E&r:<rE29>Ukt5aYK&6@r5%O)N+diBTC+e,m<X0s4NDJsNWYIR3Z$A>A]4-nAeI<!0O+VU%JUW?n3L17N*L;Zg.pN6^E0$>4PPM_\`P[1)D7kB,g3J=O/`@**I&&A8o^[_Snj]!Ob.c_PA`/NKj7pTB5!:US@N/B#BsbP-Ob:2Ht3]bTf[e@TPsXtha=>]g,@FGOkSaAGt2NH&jo!c1X;2Y5e"F:pqUK5`,m2D3))F/Wn-NS\(p^0HYIcETS""3T56OuI@m;%5)dR)iu`A</GRcJk_.'ZHMFUr:#B03p1J6V>2%3R:Y>$E%uBiMd\c")+l(qWB0RNi2bUb;B-EW/c+<o&m.LTnog+Q&*Q&s8k:g6'RbbFAaL31EBXuK;'o#IHY/T,Y(Y,0YcQ@!TW/%RQaO\@,6;7@NSXXEg`n;FD+,AYOJ"4]=9jdSr0GloEVYt91*\!&^s!W^s7R;s!#NY*bI_Y;jaPNQ;rSBo"Ljoh?q%R.n/1^<;W+lVS6nJJ&[O<JNDmbsKoAC+k-"maFPiHD?b8+,`n")N5=htMn2ecjCE?>`#np#Q0b)C1%+<'=opqoN.1]HU0K&@0pHeIF:DRd(ZkXjmVViiQ>MZR_-i$;BF0%FqL[sYrEe`"rVD6<B[_<?0%'cD,;+V7Q"o=G<p--[XD((t4Na9D'LMN&adFQD;f&q.H"^d=7u#KTuINN:o!#^W8:MG_Djq7R]g8r5?a<1'(S\R*[7O+g0D=3"-5p?s>D%B73D13e(P*j)O-*?ZQ:Q;-LZWfC66=q:Kh8[nSoIQ*A?P1"pu^!ViUdD_jcQ'pf&*1;IQ:n922?9*X(KA)kp*MS?#3I3LA^oM'm)tNmr?3P7q?_RrR7@l+sC#g7t@:R@)nrAgoU_dY=</Ps"bn-F,]M=TpKn;_14OLD^2&'aB4\mc`<#NWi'V)!n`@WLnlTZhu%GcPK/X'nJq)1oHN)<XGQ:\)2&>0<@:p<jf0$H^eB)&Jf^G4u!?)FS.,j.2Ucl,=W-NsRL&hTp5KI^GU6[WC?^ihsSm9!PCh$,:r8V-^V0.MG/LIAWtLUe+EoMZIJGaP_+'^Y8@-tWeCc!>pK+7FFB$jC#h"8k&S)XpoZ6mK^Oi5%2G]:0UkG?H^D=WZZ+dD2<@E<OUG.8*>E[(/0n8MBM6&0V[DiB(GOQ/!o!0hk"U+2p@!@bh1lKi"4282C#j^^us2l')?1T_Y^E.G&Y#2PGh)$d"D)J=3VBe$e"-=MTMO=%Q#Zpl%kA5!EUQ/%FkPC$<F(:U@+>(5R:3hYshD%I\(?p([e`K(gFg,1U0iJ/+HTKhRlrVGDi'UZdCY'FFjuDjhtE;*cHYq(5JH\MfKbD1WW6mg5lKHg2Muq/JN2iG!6*?e/H-g%!Yi3-k+MC"=\ajPQq>KW,4ngQ3V,OL9A4E+su',-1I"ONtB$jG\rucWH?.a\Z_)A9`7LS5,uNnrW'0SI#I$7\GiQSB5B`Qd=jN7XuUNHU?]u;^$$6->sTc*0Q[WOG]ur#._?p!I,k!3h:(#*fPpu1FQtb7#$4hSXcRBnt\jCBHC(8.F04Z?QI^*;9Ml"W_>7E`KbK)=CJ0rU-i9eM`*lG33-7%ag(($)6#KqDZc7(Ud-LFm>'Qbc=q)FOBq'*`Cn@JFV@#m@WhLFQuR`6(@Id79Q*`@RFO.ps2_d=&a>aYJO6H$^Nal5D'3kk(8<J:&<\"j2;n*Z<u#e.7.RA3XS)n")1Hm\3]Z#B)"nnnQH6W$EYkV/_>7bGq"YVfrT*Nt"lGWk(Y>#iK!_-ghP(QZ=,f'aJoQP5\IFd`]+[g*_+9T3:s)0Z878lL#"I0GMD2hDLj0u^7A92@.k=1.CO!4B3&QMhml/4)Ci(<%-X(liD&&Z@"8eTbT)~>
+endstream
+endobj
+17 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+>>
+endobj
+18 0 obj
+<<
+/Contents 19 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 17 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+19 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2021
+>>
+stream
+Gau`TgN)%,&:Ml+m,Ub+aGbAkc"T9"\8d^-*30Z5D.ibJOcY6`,SU6cU7$IXG<o+BAR1\!8tAPT!$JXqp?^I<]$S8XY5L:O!FCKLin=RfK5_08hujV*K@f(g:X@1S!Gr79?FfM!p'8$UWu4(YQFD'DVrRS9%t)uK#HeGC$EY91msN-\Gg7"Ni,QC2p]p<;b^oN:!I*c'IBV])m./^%1@R@h]Zgjd))j6IEi)s-MJQ<5\96aM0"'hFV`ZaH8st3Z#2r&XIiq[*p'dI"c'T*4n_36bdH1&kTekmB]KYub4f@Ui",%#j4*J7(Ba9#u5W?Eep;$&T-'!XZbBMlZ/u@]<jr>./0":u-;jJ:5!Dg55HR]b@lp8j_&MaFk#X7D)M!58"d?&.Ne>X=sa4+L6lL"bfcA!tk0">[=$G/5[WEb2/AYtf!?!'HFA',H:\6W4S?X5q-fmDNPd4ViR^Z*/W%3,\+,FH)u5l])<-R+K27>%f8#.n=6]]r_H#Ik>bCO"VTnD(SQIc^U)9s#A[11]`(fU@ClIk#$p?3>gO,,9LH;dB*"-Vu"mHeems7rr(l;D2T*"!h*bk#(Bj!E`UqKWn]N&Z2[tLd[W\/oYp.36sj0(3>3/AsplLLgro9:TW\3Adk@7>%4eal%io<6KnQY;,#3r#)pJJRlfLHm!%=RJ$\n0f=*Z_.4b]'Z3*(*VD+#mRu*)>qc(c]GX>;[g5ln-L/tFnOJ\_tH":rL;4!/Y\_Q1<Me(@':3t`[6?%kV.fDeM&W6a*0h58T&ijjYXhF`Mbp-]BrgRLljpRY:.3k7@,Z^S^Zn:uuYFSml*jAEeZ/,rp7UO7SUF"HjqB!.^+idM^/5Y3/Y>^=jZR/NZr51suk7,2"!!WqGNR92TAOOm9.Y[Z8?T7F=YL'u/(01?ZOcZJ_KI_asLB!CS&<O?/kU*HWr?JJTrr6("Uu@f*Wn*02Xo>"E%[HoE[LSPF;^KoHqIPV6;>nTaB<$r.>7RC]*VR6\1%+c3Vc93Ok::c\6<?S1'hun94L!m<EfQ\nb2WlR5`MM$E)9H$Wc)YTl7h?Pb-/Y`_e)r%(oFHmk1$2I;Iqb%DeHapHuTC_=&iatX8j!ln@/MN]@^J_YW,hePhb*':m,_Ud%'`4329jpJe06\+igO.WR-=irX5>pGG!e6/as&&#m%\"#iK%`lFHlsXV.P.0_5AXD5VgLRPs\7BM23/YS3=DJITU%40<jH)2KI2!['T%Jc$#kp6VOR,ZKRVP^j4!o*!U$F>R_qI=<PufOro1<Uub7@7d.-%YV@0N)=&I)c!_F\qO__INs>g:87c9[rG>_qMIVL'Y;Bt(^tbHMdTBICqm?KGA@:t<R"CUN/V`NVFbsQ-b,;9GugqoD4k1V*#!cR7F]DJ60F%_^##_]qO9/YTf1<%Z#pTs88>;C52MhfE2MCcSs;/%p.Y?F'(`crFRWqqKlHiF=ZX^U!_KX)a9oWr<k+6@2@q@(kpadSW+=0/))7]W`"n9,FRVD$.m1.MejRWV/dB-/,G;8YXLm^,=^;coS@C"fDZ#`oPa1i<,,icu1MK0*/l>ju(NBe!K;@>mC'4p$PoMf.**n'H*8RduoL!'d3?#HDm[$C'oO>Q<$IU)W%0na5Q1&q!?XJS*(u:3>a)M[QC.p2J_fId`B)';fK<kJW>A>!t3$tPp.H^>aE`.0c[S!od>,[oIl$biV@GS=_\sJ+>R,<l8(`VZ]n.?A+7;B4qnMc>"0u'`?B\OLj'D)XJC&po:`E"*FbmU<hm.^:NF7_?$Cs$:`8s0b9a#CM3&-^*YOVCa]q#/GCCKP24,NEAbeNLTX5aBnRENI/(,j7ZBO12)TJlq.O("%/]25.lV$b#q_gS@ekf6Z]0B@P,-e]TIPlX`DR"5L!9=t!($2^&[&p<Be;p=4D8geMeG*]9]"jCSNeh7a#.\!!P32e2!o'J`0.KWCSRPhBf)lP!eYP4V&Y>Sd->OO"QlEkMAG(-,k8O4D:r(>>iDes)\iP7=8Fof&d]GkNee81*p~>
+endstream
+endobj
+20 0 obj
+<<
+/Contents 21 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 17 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+21 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1757
+>>
+stream
+Gau0CD/\/e&H88.EDo^W/S_uRQ6"XIQ8WN5^8-`MX?aNS&hUAR7$XR2(u,&eNfn3ONft@`Ag<U4*hPON4hSBd@,ok<J"n"Af*,:>%QH'lQJhP8%u[pdH?&T;W*K`%_SdG%o;5T=@.u)_]tnF1LQ6)\hT,lH0qH+"@$/@s47c+1O<RGVJ58"^<rd^P^*P,=k9`/%f,M?11TIA!Y"jDkp>DZA<"r<JV;R1QH-V;C&bt;"!)BAd;Wb>_Yi%VGmhm[j_;`!`[:`9C:3sobP(\GEOoC/,hM?Mj0FZ_kmKh%12tYKt\84o0p,MQXS;c9t5J^tD\DC&S]tf'qfEFJVS&=1f:"(=Q@JTiBY#-,Ce\8J-?b77QYLNh2dYaW&$G,:B-VDe]OpKK'E&IahL\4NGo+=Z27)p9^biA2Z=!,^'?S5\QWq'u?53-^^LQIWBR2N@c\dOb@gEAhL;ahhG84fgn`ok>:+>A*CMQ)Q[hlYh,$)uk-in[hc4q4W+V(4(HW]pT)c#rg?03Id3%@/8PfkLklJs#C'85dN[Uk10o+=A@A`>%YPpnrn?9r7t(Y"A7K&\KUQ.6MUq]jTon5f>H2E4fF"7S2SVBeop*<8R$%']]IS[\UC/;*,=?8JU[bofbh5e0(V#(IU!<2ANlt]5Tc=7=DC1Q/8a4E\2FW@[3[HD*QQCmfr04+5$=3Bi<I50p?0<cs_c=nHgJ:S3in13s_F)%jA<'+q\#W^kXs%^!JWCm`-qRSb\Np6@CKFZn)g-fb$KAp1J?)5`2q?),F/%;e,e2Im],V/69C(R/`j%NsZ5_0SrB<R"&l.mYQ_MN^_4/qZdLOk]ZYk)X1'#Me>Lpd&nCg43,j8F(d/EnZGCrD(21p`6:m35e[t*n4_-Bn4LL(i3u7&LcL_k/-W=/9.j12'f35^kO,TYq]<"gl^^1nD]Q:,lC)Rc7[b3o;Pfme(;1r<R8Gd"\[?tmbSDWtAL3].Sg&hs79M'9X-1a:I>\NHFZI2%?NZD4&P[P*nX(3_lR>,L<(t[6-Wh'MQEA!W5nE@*1NssH8Yj#\,$lL3a$%emc1E6jf9K5NJd,=Xf/Z4E>d:)T$?&VEHI(]=pA"_D%]qor&[6J!0qR4>^Su+cj57<j/5W*LKVa$k5@`'J/oZ76o\0tDq:eUqbI?"q%l:_qQgF-lh4(i7JfTt:5Tf<1VrCH0("_>Bh#.;_h'pJC.jLAKVD@FGCUU?>>oFM.Kg2hAiT4:LUhVYF/6PGLi1(ABCDouqNn`;*\CaI,LGf@3#o;Z?B2B-=kLLd&Xh`fMi8l!Q!&mluqHi22%%p&-Ffeg`qNi3L@4LOYF2d=7V+qo.Q]8j.-GfLlN;XXB=MK(4fE:p[CofeN@8T0OLlWRurIir34NL(F%Q^;4LiBK.h:C'=n]'I!4Joo\E5mgGMUWm#>3g7Lj,UjF)J@h:]-26^hJ9IUp]>1F[41M&T$H*E[bIqZ(@)gO*pYYA6<GA72ui^_+t=:2Y!AfdZXq9)e2^7G]$<jf=2;(D@KjjRF5qI0D&WQ+Rk>g02\\fQ;TtN$35SK_.P,?Q/$S6ZP"'90E"*]AkTHA_hE8Sl,O^.B4d6d9!#nJA'abCg:.^<X(13Xj.0;k-,&A-;('2>Q8[.ea.hG^8QJ\u!_[A&s9];H.c6?<KTnlgY"nWAtLVo,IqZVB1hYHZ('Z`6E'9=6N^c"]c^*p-G1aem.RF1s#'Bs-\dZo]g9%;YHJWd$j0b2Yi]?hU;5IYfr$:k*t:Hlu8~>
+endstream
+endobj
+22 0 obj
+<<
+/Contents 23 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 24 0 R
+/F2 8 0 R
+/F2-0 25 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+/F7 14 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+23 0 obj
+<<
+/Length 11384
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 51.02362 31.1811 Tm (M.Yugandhar Reddy  |  Reg. No. 192372016  |  CSA4303 Internet Programming  |  CO1 - Assessment Tool 3) Tj T* ET
+BT 1 0 0 1 518.9 31.1811 Tm (Page 5) Tj T* ET
+Q
+q
+1 0 0 1 59.85827 775.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 11.5 Tf 15 TL (RUBRICS FOR CALCULATION:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53.85827 546.5354 cm
+q
+.870588 .917647 .964706 rg
+n 0 226 487.5591 -26 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Criteria) Tj T* ET
+Q
+Q
+q
+1 0 0 1 79.70079 203 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F2 8 Tf 10 TL (Weightag) Tj T* (e) Tj T* ET
+Q
+Q
+q
+1 0 0 1 130.7244 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Level 4 - Exemplary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221.4331 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Level 3 - Proficient) Tj T* ET
+Q
+Q
+q
+1 0 0 1 312.1417 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Level 2 - Developing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 402.8504 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Level 1 - Beginning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 177 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F2 8 Tf 10 TL (Understanding) Tj T* (of Case) Tj T* ET
+Q
+Q
+q
+1 0 0 1 79.70079 187 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 130.7244 157 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 8 Tf 10 TL (Thorough) Tj T* (understanding; clearly) Tj T* (identifies all key) Tj T* (issues) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221.4331 167 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 22 Tm /F1 8 Tf 10 TL (Good understanding) Tj T* (with most issues) Tj T* (identified) Tj T* ET
+Q
+Q
+q
+1 0 0 1 312.1417 177 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (Basic understanding;) Tj T* (some issues missed) Tj T* ET
+Q
+Q
+q
+1 0 0 1 402.8504 167 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 22 Tm /F1 8 Tf 10 TL (Poor understanding;) Tj T* (problem not identified) Tj T* (correctly) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 131 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F2 8 Tf 10 TL (Application of) Tj T* (Concepts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 79.70079 141 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 130.7244 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 32 Tm /F1 8 Tf 10 TL (Effectively applies) Tj T* (relevant concepts to) Tj T* (analyze the case) Tj T* (deeply) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221.4331 121 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 22 Tm /F1 8 Tf 10 TL (Applies appropriate) Tj T* (concepts with minor) Tj T* (gaps) Tj T* ET
+Q
+Q
+q
+1 0 0 1 312.1417 131 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (Limited application of) Tj T* (concepts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 402.8504 131 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (Fails to apply relevant) Tj T* (concepts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 95 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Analysis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 79.70079 95 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (20) Tj T* ET
+Q
+Q
+q
+1 0 0 1 130.7244 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 22 Tm /F1 8 Tf 10 TL (In-depth analysis with) Tj T* (strong reasoning and) Tj T* (insights) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221.4331 85 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (Good analysis with) Tj T* (logical reasoning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 312.1417 85 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (Basic analysis with) Tj T* (limited depth) Tj T* ET
+Q
+Q
+q
+1 0 0 1 402.8504 85 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (Weak or no analysis;) Tj T* (lacks reasoning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 59 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Solution Design) Tj T* ET
+Q
+Q
+q
+1 0 0 1 79.70079 59 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (20) Tj T* ET
+Q
+Q
+q
+1 0 0 1 130.7244 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 22 Tm /F1 8 Tf 10 TL (Innovative, feasible) Tj T* (solutions with strong) Tj T* (justification) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221.4331 49 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (Logical solutions with) Tj T* (adequate justification) Tj T* ET
+Q
+Q
+q
+1 0 0 1 312.1417 49 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (Basic solutions with) Tj T* (weak justification) Tj T* ET
+Q
+Q
+q
+1 0 0 1 402.8504 49 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (Incorrect or no) Tj T* (solution provided) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 23 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Clarity) Tj T* ET
+Q
+Q
+q
+1 0 0 1 79.70079 23 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 130.7244 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 22 Tm /F1 8 Tf 10 TL (Clear, well-structured,) Tj T* (and easy to) Tj T* (understand) Tj T* ET
+Q
+Q
+q
+1 0 0 1 221.4331 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 22 Tm /F1 8 Tf 10 TL (Organized and) Tj T* (understandable) Tj T* (presentation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 312.1417 13 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (Limited clarity and) Tj T* (structure) Tj T* ET
+Q
+Q
+q
+1 0 0 1 402.8504 13 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (Poor clarity; difficult to) Tj T* (understand) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.498039 .498039 .498039 RG
+.5 w
+n 0 226 m 487.5591 226 l S
+n 0 0 m 487.5591 0 l S
+n 0 0 m 0 226 l S
+n 487.5591 0 m 487.5591 226 l S
+n 0 200 m 487.5591 200 l S
+n 0 154 m 487.5591 154 l S
+n 0 108 m 487.5591 108 l S
+n 0 72 m 487.5591 72 l S
+n 0 36 m 487.5591 36 l S
+n 73.70079 0 m 73.70079 226 l S
+n 124.7244 0 m 124.7244 226 l S
+n 215.4331 0 m 215.4331 226 l S
+n 306.1417 0 m 306.1417 226 l S
+n 396.8504 0 m 396.8504 226 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+1 1 1 RG
+n
+50 541.8898 495 235 re
+f*
+q
+1 0 0 1 53.86 480.5398 cm
+q
+0.870588 0.917647 0.964706 rg
+n
+0 292 488 -30 re
+f*
+0.94902 0.94902 0.94902 rg
+n
+0 22 488 -22 re
+f*
+0 0 0 rg
+BT
+/F1-0 10 Tf
+12 TL
+ET
+q
+1 0 0 1 5 277 cm
+q
+0.121569 0.219608 0.392157 rg
+BT
+1 0 0 1 0 2 Tm
+/F2-0 8 Tf
+10 TL
+(Criteria) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 75 277 cm
+q
+0.121569 0.219608 0.392157 rg
+BT
+1 0 0 1 0 2 Tm
+/F2-0 8 Tf
+10 TL
+(Weightage) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 127 267 cm
+q
+0.121569 0.219608 0.392157 rg
+BT
+1 0 0 1 0 12 Tm
+/F2-0 8 Tf
+10 TL
+(Level 4 \055) Tj
+T*
+(Exemplary) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 205 267 cm
+q
+0.121569 0.219608 0.392157 rg
+BT
+1 0 0 1 0 12 Tm
+/F2-0 8 Tf
+10 TL
+(Level 3 \055) Tj
+T*
+(Proficient) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 283 267 cm
+q
+0.121569 0.219608 0.392157 rg
+BT
+1 0 0 1 0 12 Tm
+/F2-0 8 Tf
+10 TL
+(Level 2 \055) Tj
+T*
+(Developing) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 361 267 cm
+q
+0.121569 0.219608 0.392157 rg
+BT
+1 0 0 1 0 12 Tm
+/F2-0 8 Tf
+10 TL
+(Level 1 \055) Tj
+T*
+(Beginning) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 439 267 cm
+q
+0.121569 0.219608 0.392157 rg
+BT
+1 0 0 1 0 12 Tm
+/F2-0 8 Tf
+10 TL
+(Gained) Tj
+T*
+(Marks) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 237 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 12 Tm
+/F2-0 8 Tf
+10 TL
+(Understanding) Tj
+T*
+(of Case) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 75 247 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1-0 8 Tf
+10 TL
+(25) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 127 217 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 32 Tm
+/F1-0 8 Tf
+10 TL
+(Thorough) Tj
+T*
+(understanding\073) Tj
+T*
+(clearly identifies all) Tj
+T*
+(key issues) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 205 217 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 32 Tm
+/F1-0 8 Tf
+10 TL
+(Good) Tj
+T*
+(understanding with) Tj
+T*
+(most issues) Tj
+T*
+(identified) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 283 217 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 32 Tm
+/F1-0 8 Tf
+10 TL
+(Basic) Tj
+T*
+(understanding\073) Tj
+T*
+(some issues) Tj
+T*
+(missed) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 361 217 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 32 Tm
+/F1-0 8 Tf
+10 TL
+(Poor) Tj
+T*
+(understanding\073) Tj
+T*
+(problem not) Tj
+T*
+(identified correctly) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 439 247 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F2-0 8 Tf
+10 TL
+(19) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 187 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 12 Tm
+/F2-0 8 Tf
+10 TL
+(Application of) Tj
+T*
+(Concepts) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 75 197 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1-0 8 Tf
+10 TL
+(25) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 127 167 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 32 Tm
+/F1-0 8 Tf
+10 TL
+(Effectively applies) Tj
+T*
+(relevant concepts) Tj
+T*
+(to analyze the case) Tj
+T*
+(deeply) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 205 177 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 22 Tm
+/F1-0 8 Tf
+10 TL
+(Applies appropriate) Tj
+T*
+(concepts with) Tj
+T*
+(minor gaps) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 283 187 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 12 Tm
+/F1-0 8 Tf
+10 TL
+(Limited application) Tj
+T*
+(of concepts) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 361 187 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 12 Tm
+/F1-0 8 Tf
+10 TL
+(Fails to apply) Tj
+T*
+(relevant concepts) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 439 197 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F2-0 8 Tf
+10 TL
+(19) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 147 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F2-0 8 Tf
+10 TL
+(Analysis) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 75 147 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1-0 8 Tf
+10 TL
+(20) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 127 117 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 32 Tm
+/F1-0 8 Tf
+10 TL
+(In\055depth analysis) Tj
+T*
+(with strong) Tj
+T*
+(reasoning and) Tj
+T*
+(insights) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 205 137 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 12 Tm
+/F1-0 8 Tf
+10 TL
+(Good analysis with) Tj
+T*
+(logical reasoning) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 283 137 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 12 Tm
+/F1-0 8 Tf
+10 TL
+(Basic analysis with) Tj
+T*
+(limited depth) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 361 127 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 22 Tm
+/F1-0 8 Tf
+10 TL
+(Weak or no) Tj
+T*
+(analysis\073 lacks) Tj
+T*
+(reasoning) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 439 147 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F2-0 8 Tf
+10 TL
+(15) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 97 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F2-0 8 Tf
+10 TL
+(Solution Design) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 75 97 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1-0 8 Tf
+10 TL
+(20) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 127 77 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 22 Tm
+/F1-0 8 Tf
+10 TL
+(Innovative\054 feasible) Tj
+T*
+(solutions with) Tj
+T*
+(strong justification) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 205 77 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 22 Tm
+/F1-0 8 Tf
+10 TL
+(Logical solutions) Tj
+T*
+(with adequate) Tj
+T*
+(justification) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 283 77 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 22 Tm
+/F1-0 8 Tf
+10 TL
+(Basic solutions) Tj
+T*
+(with weak) Tj
+T*
+(justification) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 361 87 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 12 Tm
+/F1-0 8 Tf
+10 TL
+(Incorrect or no) Tj
+T*
+(solution provided) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 439 97 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F2-0 8 Tf
+10 TL
+(15) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 57 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F2-0 8 Tf
+10 TL
+(Clarity) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 75 57 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F1-0 8 Tf
+10 TL
+(10) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 127 27 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 32 Tm
+/F1-0 8 Tf
+10 TL
+(Clear\054) Tj
+T*
+(well\055structured\054) Tj
+T*
+(and easy to) Tj
+T*
+(understand) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 205 37 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 22 Tm
+/F1-0 8 Tf
+10 TL
+(Organized and) Tj
+T*
+(understandable) Tj
+T*
+(presentation) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 283 47 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 12 Tm
+/F1-0 8 Tf
+10 TL
+(Limited clarity and) Tj
+T*
+(structure) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 361 37 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 22 Tm
+/F1-0 8 Tf
+10 TL
+(Poor clarity\073) Tj
+T*
+(difficult to) Tj
+T*
+(understand) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 439 57 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F2-0 8 Tf
+10 TL
+(8) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 7 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F2-0 8 Tf
+10 TL
+(Total) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 75 7 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F2-0 8 Tf
+10 TL
+(100) Tj
+T*
+ET
+Q
+Q
+BT
+1 0 0 1 127 7 Tm
+T*
+ET
+q
+1 0 0 1 439 7 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 2 Tm
+/F2-0 8 Tf
+10 TL
+(76) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.333333 0.333333 0.333333 RG
+0.5 w
+n
+0 292 m
+488 292 l
+S
+n
+0 0 m
+488 0 l
+S
+n
+0 0 m
+0 292 l
+S
+n
+488 0 m
+488 292 l
+S
+n
+0 262 m
+488 262 l
+S
+n
+0 212 m
+488 212 l
+S
+n
+0 162 m
+488 162 l
+S
+n
+0 112 m
+488 112 l
+S
+n
+0 72 m
+488 72 l
+S
+n
+0 22 m
+488 22 l
+S
+n
+70 0 m
+70 292 l
+S
+n
+122 0 m
+122 292 l
+S
+n
+200 22 m
+200 292 l
+S
+n
+278 22 m
+278 292 l
+S
+n
+356 22 m
+356 292 l
+S
+n
+434 0 m
+434 292 l
+S
+Q
+Q
+Q
+Q
+
+
+endstream
+endobj
+24 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+25 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 26
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000141 00000 n 
+0000000190 00000 n 
+0000000500 00000 n 
+0000006811 00000 n 
+0000006918 00000 n 
+0000007025 00000 n 
+0000007137 00000 n 
+0000007249 00000 n 
+0000007359 00000 n 
+0000007443 00000 n 
+0000007552 00000 n 
+0000007658 00000 n 
+0000007773 00000 n 
+0000007975 00000 n 
+0000010067 00000 n 
+0000010164 00000 n 
+0000010366 00000 n 
+0000012480 00000 n 
+0000012682 00000 n 
+0000014532 00000 n 
+0000014846 00000 n 
+0000026284 00000 n 
+0000026392 00000 n 
+trailer
+<<
+/Size 26
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+26505
+%%EOF
